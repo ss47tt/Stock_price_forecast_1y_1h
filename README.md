@@ -10,4 +10,5 @@ How to forecast 1 year, 1 hour interval stock close price?
    b. Input "Open", "High", "Low", "Close", "Volume" as feature with 8:2 train-test split
    c. Input Close Price as feature without train-test split
    d. Input "Open", "High", "Low", "Close", "Volume" as feature without train-test split
-I think we should use without train-test split as stock prices are volatile
+
+### I think we should use without train-test split as stock prices are volatile
